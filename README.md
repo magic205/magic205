@@ -2,7 +2,7 @@
 - 👀 I’m interested in speeduino stm32...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Speeduino ecu Dev
-- 📫 How to reach me 
+- 📫 How to reach me magic205@me.com
 
 <!---
 magic205/magic205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
